@@ -1,3 +1,5 @@
+this wont affect the actual thing... I hope
+
 <h1 align="center">
   <img src="snap/gui/leagueoflegends.png" alt="Project">
   <br />
@@ -22,7 +24,7 @@ distributions.</p>
     snap refresh --candidate wine-platform-5-staging
 
 ## Optional
-Users can update `wine-platform-runtime` snap which has updated pkgs like `mesa`,` llvm`, `amd`,`intel`, drivers from `obif` ppa that can support newer `AMD` gpus and newer changes.
+Users can update `wine-platform-runtime` Snap which has updated pkgs like `mesa`,` llvm`, `amd`,`intel`, drivers from `obif` ppa that can support newer `AMD` gpus and newer changes.
 
 	snap refresh --beta wine-platform-runtime
 
